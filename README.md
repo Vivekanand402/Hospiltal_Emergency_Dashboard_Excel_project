@@ -220,8 +220,4 @@ Hospital-Emergency-Room-Analysis/
 
 **Vivekanand Dubey**
 
-**Aspiring Data Analyst | Excel | SQL | Power BI | Python**
-
----
-
-⭐ If you find this project useful, consider giving the repository a star!
+**Aspiring Data Analyst | Excel | SQL | Power BI | Python*
